@@ -14,3 +14,9 @@
 1. Change directory to the `Day2` folder
 1. Run `.\RPS-Refactored -Part 1` and `.\RPS-Refactored -Part 2` to calculate and display answers for Parts 1 and 2 respectively
 1. (Optional) Run `.\RPS-Refactored -Part 1 -Score [Player1|Both]` and `.\RPS-Refactored -Part 2 -Score [Player1|Both]` to calculate and display answers for Parts 1 and 2 for `Player1` or `Both Player1` and `Player2` 
+## [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3) 
+## Instructions
+1. Save puzzle input to `Day3` folder as `input.txt`
+1. Open PowerShell
+1. Change directory to the `Day3` folder
+1. Run `.\Get-Rucksack-Items.ps1` to calculate and display answers for Parts 1 and 2 as ItemPrioritiesSum and BadgePriortiesSum, respectively
