@@ -20,3 +20,15 @@
 1. Open PowerShell
 1. Change directory to the `Day3` folder
 1. Run `.\Get-Rucksack-Items.ps1` to calculate and display answers for Parts 1 and 2 as ItemPrioritiesSum and BadgePriortiesSum, respectively
+## [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4) 
+## Instructions
+1. Save puzzle input to `Day4` folder as `input.txt`
+1. Open PowerShell
+1. Change directory to the `Day4` folder
+1. Run `.\Camp-Cleanup.ps1` to calculate and display answers for Parts 1 and 2
+## [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5) 
+## Instructions
+1. Save puzzle input to `Day5` folder as `input.txt`
+1. Open PowerShell
+1. Change directory to the `Day5` folder
+1. Run `.\Supply-Stacks.ps1 -Part 1` and `.\Supply-Stacks -Part 2` to calculate and display answers for Parts 1 and 2 respectively
