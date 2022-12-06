@@ -31,4 +31,10 @@
 1. Save puzzle input to `Day5` folder as `input.txt`
 1. Open PowerShell
 1. Change directory to the `Day5` folder
-1. Run `.\Supply-Stacks.ps1 -Part 1` and `.\Supply-Stacks -Part 2` to calculate and display answers for Parts 1 and 2 respectively
+1. Run `.\Supply-Stacks.ps1` and `.\Supply-Stacks -Part 2` to calculate and display answers for Parts 1 and 2 respectively
+## [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6) 
+## Instructions
+1. Save puzzle input to `Day6` folder as `input.txt`
+1. Open PowerShell
+1. Change directory to the `Day6` folder
+1. Run `.\Tuning-Trouble.ps1` and `.\Tuning-Trouble -Part 2` to calculate and display answers for Parts 1 and 2 respectively
