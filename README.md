@@ -38,3 +38,9 @@
 1. Open PowerShell
 1. Change directory to the `Day6` folder
 1. Run `.\Tuning-Trouble.ps1` and `.\Tuning-Trouble -Part 2` to calculate and display answers for Parts 1 and 2 respectively
+## [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7) 
+## Instructions
+1. Save puzzle input to `Day7` folder as `input.txt`
+1. Open PowerShell
+1. Change directory to the `Day7` folder
+1. Run `.\No-Space-Left-On-Device.ps1` to calculate and display answers for Parts 1 and 2
