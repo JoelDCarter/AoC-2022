@@ -44,3 +44,15 @@
 1. Open PowerShell
 1. Change directory to the `Day7` folder
 1. Run `.\No-Space-Left-On-Device.ps1` to calculate and display answers for Parts 1 and 2
+## [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8) 
+## Instructions
+1. Save puzzle input to `Day8` folder as `input.txt`
+1. Open PowerShell
+1. Change directory to the `Day8` folder
+1. Run `.\Treetop-Tree-House.ps1` to calculate and display answers for Parts 1 and 2
+## [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9) 
+## Instructions
+1. Save puzzle input to `Day9` folder as `input.txt`
+1. Open PowerShell
+1. Change directory to the `Day9` folder
+1. Run `.\Rope-Bridge.ps1` and `.\Rope-Bridge.ps1 -Length 10` to calculate and display answers for Parts 1 and 2 respectively
