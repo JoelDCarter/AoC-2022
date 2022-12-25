@@ -56,3 +56,9 @@
 1. Open PowerShell
 1. Change directory to the `Day9` folder
 1. Run `.\Rope-Bridge.ps1` and `.\Rope-Bridge.ps1 -Length 10` to calculate and display answers for Parts 1 and 2 respectively
+## [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10) 
+## Instructions
+1. Save puzzle input to `Day10` folder as `input.txt`
+1. Open shell (requires that Rust v7 is already installed)
+1. Change directory to the `Day10` folder
+1. Run `rustc cathode-ray-tube.rs` and `./cathode-ray-tube` to calculate and display answers for Parts 1 and 2
